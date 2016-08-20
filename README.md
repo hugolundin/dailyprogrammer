@@ -1,2 +1,2 @@
 # dailyprogrammer
-My solutions to problems from reddit.com/r/dailyprogrammer.
+My solutions to problems from https://www.reddit.com/r/dailyprogrammer/.
